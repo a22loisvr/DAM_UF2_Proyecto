@@ -54,4 +54,3 @@ Podéis comentar cualquier otra información relevante que consideréis. Por eje
 - **Valoración**. Por último, de manera opcional, podéis hacer una valoración personal del proyecto en la que comentar aspectos del desarrollo como dificultades encontradas, conocimientos adquiridos,... o cualquier otro particular.
 
 En esta presentación se puede pedir que se modifique en ese momento algún parámetro particular del videojuego para comprobar la autoría del mismo.  
-

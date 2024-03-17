@@ -2,52 +2,51 @@
 
 ## PRESENTACIÓN/RESUMEN
 
-- Título. 
-- Concepto: descripción breve (un párrafo) de las ideas principales del juego
-- Género (puede ser más de uno)
-- Público (target audience)
-- Plataforma (PC, smartphone, tablet,...)
+- Leap Wizard 
+- Concepto: Leap Wizard es un juego de plataformas pensado para ser simple y accesible. 
+- Género: Plataformas
+- Público: Todo el mundo
+- Plataforma: PC
 
 
 ## GAMEPLAY
 
 ### Objetivos
 
-Descripción de cuáles son los objetivos principales (y secundarios si los hay) del juego
+El objetivo principal del juego es avanzar a través de las pantallas de plataformeo evitando los distintos obstáculos que se puedan presentar.
 
 #### Jugabilidad
 
-Descripción de la interacción y experiencia del jugador. Sistemas de premios o recompensas. Puzzles,...
+En el género de plataformas el jugador interactúa completamente a través del movimiento de su personaje por lo que es un punto muy importe en este juego. Moverse tiene que sentirse bien y ser divertido porque es el foco principal del juego.
 
 ### Progresión
 
-Avance entre las distintas fases (si las hay) del juego.
+El juego tiene progresión lineal a través de las distintas pantallas de plataformeo hasta llegar al final del juego. En un futuro se plantea la posibilidad de añadir ramificaciones de caminos, aportando rejugabilidad al juego.
 
 ### GUI
 
-Descripción del GUI y de la información mostrada al jugador durante el desarrollo de la partida
+Actualmente todavía no hay GUI durante la partida porque no hay información que mostrar. Añadir vidas limitadas al jugador, un contador de muertes o un temporizador es una posibilidad.
 
 ## MECÁNICAS
 
-- Reglas: condiciones de victoria, condiciones de pérdida, reglas de combate,...
-- Interacción: controles e interacción del jugador con el personaje, acciones posibles, interacción con otros elementos o personajes,...
-- Puntaje: sistema de puntaje
-- Dificultad: parámetros de dificultad progresiva
+- Reglas: La condición de victoria es alcanzar la meta de cada pantalla para progresar por los niveles hasta alcanzar el final.
+- Interacción: El personaje puede moverse horizontalmente, saltar, deslizarse por las paredes y saltar desde estas. El personaje muere al colisionar con pinchos, enemigos o si cae al vacío.
+- Puntaje: No hay. Se podría implementar vidas, un temporizador o contador de muertes para calcular una puntuación total al finalizar el juego.
+- Dificultad: La dificultad depende completamente de la disposición de cada nivel, a medida que avanzas en el juego los niveles serán más complejos y con nuevos obstáculos y mecánicas.
 
 ## ELEMENTOS DEL VIDEOJUEGO
 
 Caracterización del mundo/entorno en el que se desarrolla el videojuego (Worldbuilding). Puede incluir:
 
-- Leyes físicas
-- Historia
-- Personajes: descripción, arte,...
-- Niveles
-- Elementos culturales o geográficos
-- ...
+La acción del videojuego ocurre en un mundo de fantasía medieval. Esto permite romper las normas convencionales del mundo real con facilidad y añadir elementos más interesantes.
+Actualmente no hay elementos de historia en el juego pero se implementarán en el futuro.
+El juego tiene una estética inspirada en juegos retro usando sprites de 16 bits. En niveles posteriores se podrán explorar niveles con ambientaciones distintas como bosques o cuevas.
 
 ## ASSETS
 
-- Música
-- Efectos de sonido
-- Modelos 2D/3D
-- ...
+Se han utilizado assets gratuitos de uso libre de diversos creadores. Estos han sido descargados a través de [itch.io](https://itch.io/).
+Efectos de sonido de [kronbits](https://kronbits.itch.io/freesfx).
+Música hecha por [leohpaz](https://leohpaz.itch.io/minifantasy-dungeon-sfx-pack).
+Sprites del personaje hechos por [penzilla](https://penzilla.itch.io/hooded-protagonist).
+Sprites de pájaros de [ma9ici4n](https://ma9ici4n.itch.io/pixel-art-bird-16x16).
+A mayores se crearon algunos assets a mano.
